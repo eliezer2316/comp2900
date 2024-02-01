@@ -1,2 +1,3 @@
 # comp2900
-_Estructura de Datos_
+Estructura de Datos
+Profesor: _Dastas_
