@@ -1,3 +1,3 @@
-# comp2900
+# COMP2900
 
 Estructura de Datos
